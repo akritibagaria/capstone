@@ -2,7 +2,7 @@
 
 This application manages Casting Agency's backend. It has two main entities ```Actors``` and ```Movies```. Users of this application can create, update, read and delete actors and movies.
 
-###Users
+### Users
 This app has 3 roles and 3 users. The token for each of the users are mentioned in `setup.sh` file. Details about each user privilege are provided below.
 
 - Casting Assistant
