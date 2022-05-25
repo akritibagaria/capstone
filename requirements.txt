@@ -64,7 +64,7 @@ pyasn1==0.4.8
 pycodestyle==2.6.0
 pycparser==2.19
 pycryptodome==3.4
-PyJWT==1.7.1
+PyJWT==2.4.0
 pylint==2.3.1
 pyOpenSSL==18.0.0
 pyparsing==2.2.2
